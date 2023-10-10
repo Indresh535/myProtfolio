@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # myProtfolio
-A Responsive Protfolio with react-js.
+A Responsive Protfolio with react-js old.
 >>>>>>> 0b0c5a352a5791e041cbededa9615532b193fc3a
